@@ -1,2 +1,2 @@
-# hello-world
+I am a QA Automation Engineer with experience in web and API automation testing using tools like Playwright, TypeScript, and Python. I have worked on developing and maintaining automation frameworks using the Page Object Model approach, implementing end-to-end test scenarios, validations, reporting, and reusable utilities. I am currently expanding my knowledge in Git/GitHub, CI/CD, and automation best practices to improve collaboration and version control in team environments. I am passionate about learning new technologies, solving problems, and building reliable automation solutions that improve software quality and testing efficiency.# hello-world
 This repository is for practicing the GitHub Flow.
